@@ -1,0 +1,34 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+}
+.menu h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+#bs-example-navbar-collapse-1 li a{
+	text-align: center;
+}
+.section {
+	background-color: #ddd;
+	padding: 10px;
+	border: solid black 1px;
+	position: relative;
+	margin-left: 15px;
+	margin-bottom: 30px;
+	margin-right: 15px;
+}
+.section h2{
+	text-align: center;
+}
+footer{
+	height: 50px;
+	border-top: solid #e7e7e7;
+	background-color: #f8f8f8;
+}
+footer p{
+	text-align: center;
+	padding-top: 15px;
+}
